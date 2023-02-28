@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-Hello here is my revisions to the Heriseon webpage. I hope ypu like it!
+Hello here is my revisions to the Heriseon webpage. I hope you like it!
 
 <h1>GitHub Link</h1>
 https://github.com/Ckirkland021/HTML-Semantic-Refractor/blob/28607c905f815cda553f0ad1feb8e375df509ecc/index.html
